@@ -4,6 +4,8 @@
 
 Welcome to the CS 160 Technical Interview Prep website! This platform is designed to help students of CS 160 excel in technical interviews. Whether you are gearing up for internship opportunities or preparing for job interviews, this resource hub aims to provide you with the necessary tools and knowledge to succeed.
 
+Contributors: Amirali Marashifar, Ansuri Chavali, Bence Danko, Neha Washikar, Oskar Attar, Mateusz Pabis, Radha Ganesh
+
 ## Features
 
 ### Interview Course
