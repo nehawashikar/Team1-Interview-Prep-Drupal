@@ -9,10 +9,10 @@ Contributors: Amirali Marashifar, Ansuri Chavali, Bence Danko, Neha Washikar, Os
 ## Features
 
 ### Interview Course
-- Our comprehensive interview course is curated and instructed by experienced professionals, Radha Ganesh and Bence Danko. Dive into the world of technical interviews with a structured curriculum designed to enhance your problem-solving skills and interview techniques.
+- Our comprehensive interview course is curated and instructed by experienced professionals. Dive into the world of technical interviews with a structured curriculum designed to enhance your problem-solving skills and interview techniques.
 
 ### Practice Problems
-- Sharpen your coding and problem-solving skills with a diverse range of practice problems. Amirali Marashifar and Mateusz Pabis have carefully curated a collection of challenges to help you prepare for the toughest technical questions you might encounter during interviews.
+- Sharpen your coding and problem-solving skills with a diverse range of practice problems. We have carefully curated a collection of challenges to help you prepare for the toughest technical questions you might encounter during interviews.
 
 ### Video Viewing
 - Watch engaging video content hosted by Neha Washikar and Anusri Chavali. These videos cover a variety of topics, providing insights, tips, and walkthroughs to help you understand key concepts and strategies for tackling technical interview questions.
@@ -26,7 +26,7 @@ To make the most of this platform, follow these steps:
 
 1. **Explore the Course:** Begin with the Interview Course section to build a solid foundation for technical interviews.
 2. **Practice Coding:** Head over to the Practice Problems section to challenge yourself with a variety of coding exercises.
-3. **Watch Videos:** Check out the Video Viewing section for insightful videos hosted by Neha Washikar and Anusri Chavali.
-4. **Access Additional Resources:** Explore the Resource Sharing section curated by Oskar Attar for additional learning materials.
+3. **Watch Videos:** Check out the Video Viewing section for insightful videos.
+4. **Access Additional Resources:** Explore the Resource Sharing section for additional learning materials.
 
 Good luck with your interview preparation, and may you ace your technical interviews with confidence!
