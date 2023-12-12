@@ -14,10 +14,10 @@ Contributors: Amirali Marashifar, Ansuri Chavali, Bence Danko, Neha Washikar, Os
 ### Practice Problems
 - Sharpen your coding and problem-solving skills with a diverse range of practice problems. We have carefully curated a collection of challenges to help you prepare for the toughest technical questions you might encounter during interviews.
 
-### Video Viewing
+### Video Resources
 - Watch engaging video content hosted by Neha Washikar and Anusri Chavali. These videos cover a variety of topics, providing insights, tips, and walkthroughs to help you understand key concepts and strategies for tackling technical interview questions.
 
-### Resource Sharing
+### Learning Resource
 - Explore a wealth of additional resources curated by Oskar Attar. From articles and blog posts to coding tools and frameworks, this section is your go-to place for supplementary materials that can further enhance your understanding of computer science and prepare you for interviews.
 
 ## Getting Started
